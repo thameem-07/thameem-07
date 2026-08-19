@@ -1,77 +1,158 @@
-# Scholar Notify
+# 👋 Hey, I'm Mohamed Thameem Kader Basha
 
-> An Early Warning System (EWS) and multi-vector intervention platform designed to identify, analyze, and prevent school dropouts in real time. Built for Smart India Hackathon (SIH).
+### 💻 Information Technology Student | Aspiring Software Developer | Tech Enthusiast
 
----
+I'm an undergraduate **Information Technology student** who enjoys learning how technology works, building projects, experimenting with new tools, and turning ideas into practical solutions.
 
-## 📌 Overview
-
-**SCHOLAR NOTIFY** is an interactive web-based portal tailored for Teachers, District Education Officers (DEO), and Government Administrators. It combines multi-vector risk diagnostics, automated welfare scheme matching, peer mentorship tracking, and emergency field dispatch workflows to protect at-risk students and boost school retention rates.
+I'm currently focused on strengthening my programming fundamentals, exploring software development, and building projects that help me learn by doing.
 
 ---
 
-## ✨ Key Features
+## 🚀 About Me
 
-- 📊 **VSK Dashboard Overview** – Real-time analytics, risk distributions, and district-level metrics powered by Chart.js.
-- ⚠️ **Early Warning System (EWS)** – Student-level risk scoring categorizing students into Severe, High, Moderate, and Low risk brackets.
-- 🎯 **Multi-Vector Diagnostic Engine** – Deep breakdown of dropout risk across Academic, Economic, Health & Nutrition, Behavioral, and Environmental factors.
-- ⚡ **Universal Smart Intake** – Instant student record intake using Excel (`.xlsx`/`.csv`) file parsing via SheetJS, OCR document scanning via Tesseract.js, or voice input.
-- 🤝 **Govt Schemes Matcher** – Auto-matches student socio-economic profiles with active welfare schemes (PM-POSHAN, transport subsidies, scholarships).
-- 🎛️ **Support Plan Simulator** – Interactive "what-if" playground to project attendance improvements based on planned interventions.
-- 👥 **Sathi Peer Mentorship** – Connects high-performing senior student mentors with at-risk students for academic and social support.
-- 🚨 **Emergency Home Visit (SOS Dispatch)** – Escalation matrix and field visit dispatch workflow for severe absenteeism cases.
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Technology |
-| :--- | :--- |
-| **Frontend** | HTML5, Tailwind CSS, Custom CSS, JavaScript (ES6+) |
-| **Data Visualization** | Chart.js |
-| **Data & Document Processing** | SheetJS (`xlsx`), Tesseract.js (OCR) |
-| **Icons & Typography** | FontAwesome 6, Plus Jakarta Sans |
-| **Backend / Web Server** | Python 3 (`http.server`) |
+* 🎓 B.Tech Information Technology student
+* 💻 Currently strengthening my programming and development skills
+* 🧠 Interested in **Software Development, AI, Cloud Computing, Cybersecurity & Linux**
+* 🛠️ Learning by building academic and personal projects
+* 🎬 Interested in **Video Editing & Content Creation**
+* 🔧 I enjoy fixing things, experimenting with technology, and exploring how systems work
+* 🌱 Always looking to learn something new
+* 🎯 Goal: Become a strong developer by building real-world projects and gaining practical experience
 
 ---
 
-## 🚀 Quick Start
+## 🧑‍💻 Tech & Skills
 
-### Prerequisites
+### Programming
 
-- Python 3.x installed on your system.
-- Modern Web Browser (Chrome, Firefox, Edge, Safari).
+* C
+* Java
+* Python — Learning
 
-### Running Locally
+### Web Development
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/sih-dropout-defenders.git
-   cd sih-dropout-defenders
-   ```
+* HTML
+* CSS
+* JavaScript — Learning
+* MERN Stack — Exploring
 
-2. **Start the local server:**
-   ```bash
-   python3 server.py
-   ```
+### Tools & Technologies
 
-3. **Open the web portal:**
-   Open your browser and navigate to `http://localhost:8080`.
+* Git
+* GitHub
+* VS Code
+* Linux
+* macOS
+
+### Areas I'm Exploring
+
+* ☁️ Cloud Computing
+* 🤖 Artificial Intelligence & Machine Learning
+* 🔐 Cybersecurity
+* 🐧 Linux & Operating Systems
+* 🌐 Web Development
+* 📊 Data & Technology
+
+### Creative Skills
+
+* 🎬 DaVinci Resolve
+* 🎥 Video Editing
+* 📱 Content Creation
 
 ---
 
-## 🔑 Demo Credentials
+## 📚 Currently Learning
 
-Use any of the pre-configured accounts below to log in and test different portal roles:
+```text
+Programming Fundamentals
+        ↓
+Java & Object-Oriented Programming
+        ↓
+Git & GitHub
+        ↓
+Web Development
+        ↓
+MERN Stack
+        ↓
+Cloud / AI / Cybersecurity
+```
 
-| Role | Username | Password |
-| :--- | :--- | :--- |
-| 👩‍🏫 **Teacher (Anand Cluster)** | `teacher.anand` | `teacher@2026` |
-| 🏛️ **District Education Officer (DEO)** | `deo.gujarat` | `deo@2026` |
-| ⚙️ **System Administrator (VSK Portal)** | `admin.vsk` | `admin@2026` |
+I'm focusing on understanding the fundamentals properly instead of simply collecting technologies.
 
 ---
 
-## 📜 License
+### 🚧 More Projects Coming Soon...
 
-This project is developed for educational and hackathon submission purposes for **Smart India Hackathon (SIH)**.
+I'm continuously working on new projects as I learn and improve my development skills.
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Strengthen C and Java fundamentals
+* [ ] Become comfortable with Git & GitHub
+* [ ] Build more real-world projects
+* [ ] Learn full-stack web development
+* [ ] Explore the MERN stack
+* [ ] Improve Linux and Operating Systems knowledge
+* [ ] Explore Cloud Computing
+* [ ] Explore AI & Machine Learning
+* [ ] Learn more about Cybersecurity
+* [ ] Start contributing to Open Source
+* [ ] Build a strong developer portfolio
+
+---
+
+## 💡 What I Like
+
+💻 Technology
+🧑‍💻 Programming
+🐧 Linux
+🔐 Cybersecurity
+🤖 AI & Emerging Tech
+☁️ Cloud Computing
+🎬 Video Editing
+📱 Content Creation
+🔧 Fixing & Building Things
+🚀 Exploring New Ideas
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thameem-07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thameem-07&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/mohamed-thameem-05529a37a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:muhammadhthameem123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## ⚡ A Little More About Me
+
+> **Learn. Build. Break. Fix. Repeat.**
+
+I believe the best way to learn technology is to actually build things, make mistakes, understand why they happened, and improve from them.
+
+Currently learning, experimenting, and building my way into the world of technology. 🚀
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and follow my journey as I learn, build, and grow.
