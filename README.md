@@ -121,30 +121,6 @@ I'm continuously building new projects as I learn and improve.
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thameem-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thameem-07&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thameem-07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 * [ ] Strengthen C and Java fundamentals
