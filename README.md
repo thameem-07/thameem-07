@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mohamed Thameem Kader Basha
+# Hey, I'm Mohamed Thameem
 
 ### 💻 Information Technology Student | Aspiring Software Developer | Tech Enthusiast
 
