@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="500"
+height="360"
+viewBox="0 0 500 360">
+
+<style>
+
+.panel {
+    fill: #0d1117;
+    stroke: #30363d;
+    stroke-width: 2;
+}
+
+.title {
+    fill: #58a6ff;
+    font-family: monospace;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.prompt {
+    fill: #8b949e;
+    font-family: monospace;
+    font-size: 14px;
+}
+
+.key {
+    fill: #79c0ff;
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.value {
+    fill: #c9d1d9;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+.row {
+    opacity: 0;
+    animation: appear 0.6s ease-out forwards;
+}
+
+@keyframes appear {
+    from {
+        opacity: 0;
+        transform: translateX(-15px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+</style>
+
+<rect
+    x="2"
+    y="2"
+    width="496"
+    height="356"
+    rx="14"
+    class="panel"
+/>
+
+<circle cx="22" cy="22" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="22" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="22" r="6" fill="#27c93f"/>
+
+<text x="85" y="27" class="prompt">
+    thameem-07@github
+</text>
+
+<text x="25" y="72" class="title">
+    $ neofetch
+</text>
+
+<line
+    x1="25"
+    y1="88"
+    x2="475"
+    y2="88"
+    stroke="#30363d"
+/>
+
+
+<g
+    class="row"
+    style="animation-delay: 0.20s"
+>
+
+<text x="25" y="125" class="key">
+    Name:
+</text>
+
+<text x="145" y="125" class="value">
+    Thameem
+</text>
+
+</g>
+
+
+<g
+    class="row"
+    style="animation-delay: 0.35s"
+>
+
+<text x="25" y="165" class="key">
+    Role:
+</text>
+
+<text x="145" y="165" class="value">
+    B.Tech IT Student
+</text>
+
+</g>
+
+
+<g
+    class="row"
+    style="animation-delay: 0.50s"
+>
+
+<text x="25" y="205" class="key">
+    Focus:
+</text>
+
+<text x="145" y="205" class="value">
+    Programming & Technology
+</text>
+
+</g>
+
+
+<g
+    class="row"
+    style="animation-delay: 0.65s"
+>
+
+<text x="25" y="245" class="key">
+    Stack:
+</text>
+
+<text x="145" y="245" class="value">
+    C • Java • Python
+</text>
+
+</g>
+
+
+<g
+    class="row"
+    style="animation-delay: 0.80s"
+>
+
+<text x="25" y="285" class="key">
+    Tools:
+</text>
+
+<text x="145" y="285" class="value">
+    Git • GitHub • DaVinci Resolve
+</text>
+
+</g>
+
+
+<text
+    x="25"
+    y="330"
+    class="prompt"
+>
+    "Building. Learning. Experimenting."
+</text>
+
+</svg>
