@@ -7,11 +7,12 @@
 <img src="./assets/ascii-portrait-better.svg" width="700">
 
 <br>
-## 🚀 Currently Learning
+## 🚀 Currently Learning 
 
 **C • Java • Python • Git • GitHub • Web Development**
 
 <br>
+
 ##  About Me
 
 I'm an undergrad **Information Technology student** who's just exploring technology, building projects, fixing things, and learning by actually doing.
@@ -156,7 +157,7 @@ I'm currently learning, experimenting, and building my way into the world of tec
 
 <div align="center">
 
-### DAMN<you made it this long🥰
+### DAMN,you made it this long🥰
 
 **SEE YOU:)**
 
