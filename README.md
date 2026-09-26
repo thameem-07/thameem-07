@@ -7,7 +7,8 @@
 <img src="./assets/ascii-portrait-better.svg" width="700">
 
 <br>
-## 🚀 Currently Learning 
+
+## Currently Learning 
 
 **C • Java • Python • Git • GitHub • Web Development**
 
